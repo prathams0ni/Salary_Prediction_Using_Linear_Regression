@@ -102,7 +102,10 @@ The notebook includes:
 
 ---
 
-markdown
+**Actual vs Predicted Chart:**
+
+<img width="1115" height="629" alt="image" src="https://github.com/user-attachments/assets/14b2641c-b1bd-4a60-97b6-e0397a4b0634" />
+
 [Regression Line](https://raw.githubusercontent.com/prathams0ni/Simple-Linear-Regression/main/images/regression_line.png)
 [Actual vs Predicted](https://raw.githubusercontent.com/prathams0ni/Simple-Linear-Regression/main/images/actual_vs_predicted.png)
 
