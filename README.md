@@ -106,8 +106,6 @@ The notebook includes:
 
 <img width="721" height="623" alt="image" src="https://github.com/user-attachments/assets/48d86cf3-7e86-4709-9ba6-f50d0ecf0e50" />
 
-[Regression Line](https://raw.githubusercontent.com/prathams0ni/Simple-Linear-Regression/main/images/regression_line.png)
-
 ---
 
 ## Run this Project:
